@@ -1,0 +1,9 @@
+com\example\ingresos\dto\IngresoResponseDTO.class
+com\example\ingresos\model\Ingreso.class
+com\example\ingresos\service\IngresoService.class
+com\example\ingresos\IngresoApplication.class
+com\example\ingresos\exception\GlobalExceptionHandler.class
+com\example\ingresos\repository\IngresoRepository.class
+com\example\ingresos\config\WebClientConfig.class
+com\example\ingresos\controller\IngresoController.class
+com\example\ingresos\dto\IngresoRequestDTO.class
